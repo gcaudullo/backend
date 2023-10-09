@@ -1,0 +1,29 @@
+[
+	{
+		"id": 2,
+		"title": "Cel Samsung Galaxy A04",
+		"description": "Uno de los celulares mas venididos del 2022",
+		"price": 179,
+		"thumbnail": "./img/cel-tecno/cel-samsung-galaxy-a04",
+		"code": 5699,
+		"stock": 20
+	},
+	{
+		"id": 3,
+		"title": "Cel Xiaomi Redmi 10a",
+		"description": "Uno de los celulares mas venididos del 2021",
+		"price": 153,
+		"thumbnail": "./img/cel-tecno/xiaomi-redmi-10a",
+		"code": 5700,
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "ASUS Vivobook m513ia bq322t",
+		"description": "Computador portatil de gran performace",
+		"price": 800,
+		"thumbnail": "./img/notebooks/asus-vivobook-m513ia",
+		"code": 5701,
+		"stock": 10
+	}
+]
